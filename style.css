@@ -67,7 +67,7 @@ i {
 
 h1,
 h2 {
-  font-family: Cinzel;
+  font-family: "Fauna One";
   color: black;
 }
 
@@ -77,5 +77,5 @@ p {
 }
 
 hr {
-  color: black;
+  border: 2px solid black;
 }
